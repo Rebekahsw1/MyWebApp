@@ -1,1 +1,2 @@
 file 7 added to test-branch-2
+hello 1
